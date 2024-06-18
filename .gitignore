@@ -1,0 +1,15 @@
+.env
+# Ignore menv directory
+myenv/
+
+# Python
+*.pyc
+__pycache__/
+env/
+venv/
+
+# Streamlit
+*.log
+
+# Configuration
+.env
