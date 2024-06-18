@@ -49,6 +49,14 @@ Smart Resume ATS helps users improve their resumes' relevance to job description
 
 ![App Screenshot](example.png)
 
+
+## Scope for Improvement
+
+There is always room for improvement in the Smart Resume ATS app. We encourage contributions and feedback from the community to enhance its performance and usability.
+
+Feel free to open issues, suggest features, or contribute to the codebase to help us improve the app!
+
+
 ## Contributing
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
